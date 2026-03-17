@@ -1,0 +1,14 @@
+body{
+background-color: rgb(241, 241, 244);
+background-image: -o-linear-gradient(rgb(241, 241, 244
+),white, rgb(241, 241, 244));
+background-image: url(fondo.jpg);
+background-size: 100%;
+}
+
+h1{
+color:rgba(255, 0, 0);
+font-family:courier;
+font-weight:oblique;
+font-weight: 900;
+}
